@@ -15,3 +15,5 @@ Tämä teksti on <em><strong>todella </strong></em>tärkeä.
 <a href="https://www.gradia.fi/">link</a>
 
 [Tästä pääsee gradian sivuille] (https://www.gradia.fi/)
+
+**Tässäkin on boldattu teksti**
