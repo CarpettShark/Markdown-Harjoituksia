@@ -17,3 +17,8 @@ Tämä teksti on <em><strong>todella </strong></em>tärkeä.
 [Tästä pääsee gradian sivuille] (https://www.gradia.fi/)
 
 **Tässäkin on boldattu teksti**
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
