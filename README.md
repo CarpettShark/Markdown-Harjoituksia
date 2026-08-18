@@ -13,3 +13,5 @@ Nämä testit ovat <strong>todella hauskoja</strong>.
 Tämä teksti on <em><strong>todella </strong></em>tärkeä.
 
 <a href="https://www.gradia.fi/">link</a>
+
+[Tästä pääsee gradian sivuille] (https://www.gradia.fi/)
