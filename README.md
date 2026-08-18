@@ -5,5 +5,5 @@
 <p>Markdown harjoitukset ovat hauskoja</p>
 <p>Ensimmäinen rivi.<br>Toinen rivi.</p>
 Nämä testit ovat <strong>todella hauskoja</strong>.
-Tämä teksti on <em><strong>todella</strong></em>tärkeä.
+Tämä teksti on <em><strong>todella </strong></em>tärkeä.
 
