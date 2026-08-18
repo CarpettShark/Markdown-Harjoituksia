@@ -22,3 +22,11 @@ Tämä teksti on <em><strong>todella </strong></em>tärkeä.
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
